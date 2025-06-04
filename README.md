@@ -47,12 +47,6 @@ project-folder/
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here if needed by uploading to GitHub and linking them)*
-
----
-
 ## 🧑‍💻 Author
 
 **Abhishek Vishwakarma**  
